@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+span{
+    text-decoration: underline;
+}
+.topcontainer{
+   background-color: #b3c2bf;;
+   padding-top: 40px;
+}
+.middlecontainer{
+    margin: 80px auto;
+    background-color: rgb(255, 255, 255);
+}
+.bottomcontainer{
+    margin: 80px auto;
+    background-color: rgb(255, 255, 255);
+}
+.contactcontainer{
+    margin: 80px auto;
+    background-color: rgb(255, 255, 255);
+}
+.lastcontainer{
+    padding: 50px ;
+    margin-top: 80px auto 0px auto;
+    background-color: rgb(123, 146, 214);
+}
+.mountain{
+    position: relative;
+    width: 50%;
+}
+h1{
+    font-size: 5.625em;
+    font-family: 'Sacramento', cursive; 
+    color: teal;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2.35em; 
+    color: teal;
+}
+h3{
+    text-align: left;
+    font-size: 1.5em;
+}
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 1.25em; 
+    color: rgb(90, 88, 88);
+    
+}
+.title{
+    line-height: 1.1;
+}
+.cloud1{
+    position:absolute;
+    right: 65%;
+    top:10%;
+}
+.cloud2{
+    position:absolute;
+}
+.intro{
+    width: 50%;
+    margin: 10px auto;
+    line-height: 2;
+}
+.border1{
+    padding: 25px;
+    width: 5%;
+    border-bottom: 10px dotted rgb(168, 163, 163);
+    border-top: none;
+    margin: auto;
+
+}
+.checked{
+    color: orange;
+}
+.program{
+    width: 50%;
+    margin: auto;
+}
+.hobbies{
+    width: 50%;
+    margin: auto;
+}
+table{
+    margin: auto;
+   
+}
+td{
+    font-size: 120%;
+    padding: 5px;
+   font-family: 'Merriweather', serif;
+}
+table,td,th{
+    border: 2px solid black;
+}
+.btn {
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  a{
+      font-family: 'Merriweather', serif;
+      font-size: 1.3em;
+      text-decoration: none;
+      padding: 30px 50px;
+      
+  }
+  a:hover{
+      text-decoration: underline;
+      color: white;
+  }
+  .copyright{
+      padding: 20px 0px;
+      font-size: 0.95em;
+  }
