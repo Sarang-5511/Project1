@@ -85,17 +85,21 @@ p{
     width: 50%;
     margin: auto;
 }
+.hobbiesone{
+    width: 75%;
+    margin: auto;
+    line-height: 2;
+    font-family: 'Merriweather', serif;
+}
 table{
     margin: auto;
+    width: 50%;
    
 }
 td{
     font-size: 120%;
     padding: 5px;
    font-family: 'Merriweather', serif;
-}
-table,td,th{
-    border: 2px solid black;
 }
 .btn {
     -webkit-border-radius: 20;
